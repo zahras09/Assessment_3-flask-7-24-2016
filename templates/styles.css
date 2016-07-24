@@ -1,0 +1,15 @@
+
+#bold-text {
+	font-weight: bold;
+}
+.input-box-color {
+	background-color: yellow;
+}
+
+/*not sure how to make this work so the header is within the box as well.*/
+div{
+	margin-top: 1em;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	margin-left: 1em;
+}
